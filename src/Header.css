@@ -1,0 +1,10 @@
+.header {
+    text-align: center;
+    background-color: palegoldenrod;
+}
+
+
+.header-logo{
+    height: 50px;
+    /* display: flex; */
+}
